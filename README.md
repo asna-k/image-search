@@ -1,4 +1,7 @@
-This Image Search Engine lets users type any keyword and instantly get related images from the web. It has a simple UI, a fast search feature, and a "Show More" button to load extra results smoothly.
+✅Image Search Engine:
+
+This Image Search Engine lets users type any keyword and instantly get related images from the web. 
+It has a simple UI, a fast search feature, and a "Show More" button to load extra results smoothly.
 
 
 
